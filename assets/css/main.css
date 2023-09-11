@@ -2685,7 +2685,8 @@ input, select, textarea {
 
 /* Header */
 
-	#header {
+	#header  {
+
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
